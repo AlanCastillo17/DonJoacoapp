@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DonJoaco</string>
+    <string name="messagepassword" >Contraseña Incorrecta</string>
+    <string name="messageusername" >Usuario Incorrecto</string>
+</resources>
